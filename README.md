@@ -12,7 +12,7 @@ A responsive and modern educational website built with pure HTML and CSS. This p
 ## Technologies Used
 
 * HTML5
-* CSS3 (Flexbox, CSS Grid, Transitions, Transforms, Animations)
+* CSS3 (Flexbox, CSS Grid, Transitions, Transforms, Animations, Media Query)
 
 
 ## Live Demo
