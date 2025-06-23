@@ -16,7 +16,7 @@ A responsive and modern educational website built with pure HTML and CSS. This p
 
 
 ## Live Demo
-[View the live StudySync website here!](https://yourusername.github.io/StudySync-Website/)
+[View the live StudySync website here!](https://jtanu1654.github.io/StudySync-Homepage/)
 
 ## Credits/Acknowledgements 
 [Font]
